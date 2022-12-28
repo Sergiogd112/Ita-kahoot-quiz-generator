@@ -1,0 +1,450 @@
+1. Which of the following pieces of aeronautical information could potentially appear in a NOTAM message?
+ "... sectorisation in Barcelona TMA from 10h to 12h is 11 Victor... "
+ "... Begur (BGR) VOR unserviceable from Oct 1st to Oct 15th 2019 ..."
+ "... visibility more than 10km, clouds few at 3000ft, QNH one zero seven eight, ... "
+ All answers are correct.
+2. Which of the following pieces of aeronautical information could potentially appear in an ATIS message?
+ "... runway 27L closed for maintenance ..."
+ "... visibility more than 10km, clouds few at 3000ft, QNH one zero seven eight, ... "
+ "... transition level is seven zero, ..."
+ All answers are correct.
+3. Which air navigation service is the responsible to disseminate the instrument approach charts to the aircraft operators?
+ The airspace management (ASM) service.
+ The ight inforamtion service (FIS).
+ The aeronautical information service (AIS).
+ The aerodrome trac zone (ATZ) service.
+4. Which air navigation service is the responsible to designthe instrument approach charts for the aircraft operators?
+ The airspace management (ASM) service.
+ The ight inforamtion service (FIS).
+ The aeronautical information service (AIS).
+ The aerodrome trac zone (ATZ) service.
+5. North Atlantic oceanic airspace is...
+ A free-route area.
+ A free-ight area.
+ An area with only RNAV airways.
+ A free-route area with an organised track system (called north Atlantic tracks).
+6. A pilot is reporting "we are at ight level two zero zero". This means:
+ The barometric altimeter of the aircraft indicates 20 000 ft and it is calibrated with respect to the standard pressure at sea level (1013.25 hPa).
+ The barometric altimeter of the aircraft indicates 20 000 ft and it is calibrated with respect to the local QNH.
+ The barometric altimeter of the aircraft indicates 2 000 ft and it is calibrated with respect to the standard pressure at sea level (1013.25 hPa).
+ The barometric altimeter of the aircraft indicates 2 000 ft and it is calibrated with respect to the local QNH.
+7. Imagine an airport with SIDs going into all directions and STARs coming from all directions, such as Barcelona airport. Which of the following measures, aiming to reduce the workload of air traf- c controllers, is the morestrategicone?(a) Publish SIDs and STARs such that they cross at points where conicting aircraft will be typically ying at very dierent altitudes.
+ Apply an ATFM measure (regulation) in case the forecast demand exceeds the estimated capacity.
+ Apply an ATFM measure (regulation) in case the actual demand exceeds the existing capacity.
+ Givedirect-toinstructions (radar vectoring) to aircraft, by air trac controllers, to avoid potential conicts at cross- ing points. 8. Which of the following controlled airspace zones is sized to ac- commodate, approximately, all the aircraft ying standard in- strumental departures?
+ The ATZ.
+ The CTR.
+ The TMA.
+ The ATC. 9. What is an airspace opening scheme?
+ It denes how the shape of the sector assigned to a specic air trac controller will change along the day.
+ It denes the sequence of dierent sector congurations planned along the day.
+ It denes the number of open sectors at the begining of the day.
+ It denes the maximum number of open sectors along the day. 10. Thefree ightconcept allows...
+ the pilot to freely plan a route joining two points without the need for overying specic ground facilities and submit the route in the ight plan.
+ the procedure designer to design guided segments joining two points without the need for overying specic ground facilities.
+ the pilot to freely chose a route joining two points without the need for overying specic ground facilities at tactical level assuring self-separation with other aircraft.
+ all the answers are correct. 11. Which of the following statements is correct when talking about free route airspace?
+ Within free route space the pilot can freely execute the ight between any entry and exit points, but must com- municate the intentions to the air trac control.
+ Within free route space the aircraft operator can freely plan routes between any entry and exit points, but must specify the chosen route in the ight plan.
+ Within free route space the air trac controller can freely move aircraft from their planned routes by giving instruc- tions (vectors) in order to expedite the ow of air trac.
+ Within free route space the air trac controller is not re- sponsible to guarantee separation between aircraft and will only assist them in case of an emergency.
+12. Which of the following ATFM initiatives is the most ecient in terms of minimising arrival delay?
+ Ground holding.
+ Air holding.
+ Level capping.
+ All initiatives are similar in terms of arrival delay. 1
+13. Schedule (or IATA) slots...
+ are slots aiming to regulate demand when the airport is under IMC (instrument meteorological conditions).
+ are seasonal slots aiming to prevent airlines to plan opera- tions above a xed value of airport capacity.
+ are the slots computed by the Network Manager, an inde- pendent and transparent service run by IATA.
+ all answers are correct.
+14. A strike (union action) is announced by the ATC sta working in Marseille area control centre, meaning that the ATC capacity of Marseille UIR will be signicantly reduced, leading to ATFM regulations. If we ignore those aircraft that were already ying when the regulations are issued, these regulations will aect...
+ ... all ights with a ight plan crossing Marseille UIR and arriving/departing from one of its airports below.
+ ... all ights with a ight plan crossing Marseille UIR and departing from an airport in a CFMU (Network Manager) member state.
+ ... all ights with a ight plan crossing Marseille UIR.
+ ... any potential ight arriving/departing from an airport in a CFMU member state, even if the ight plan is not crossing Marseille UIR.
+15. In the context of ATFM, what is the CTOT (calculated take-o time)?
+ The original take-o time of an aircraft before it is aected by an ATFM regulation.
+ The take-o time as calculated by the airport operator.
+ The take-o time as calculated by the air navigation service provider.
+ The new take-o time assigned to an aircraft aected by an ATFM regulation.
+16. Pre-tactial ATFM should:
+ Balance ights next day with available ATC Capacity.
+ Match long-term demand and needed ATC capacity.
+ Manage current ights with existing ATC capacity.
+ Dene the national airspace policy and predetermined airspace structures.
+17. Tactical ATFM should:
+ Balance ights next day with available ATC Capacity.
+ Match long-term demand and needed ATC capacity.
+ Manage current ights with existing ATC capacity.
+ Dene the national airspace policy and predetermined airspace structures.
+18. What is a Flow Management Position (FMP)?
+ a special position within an ATC center devoted to ATFM issues and interfacing the center with the CFMU.
+ the European implementation of ATFM, managed by Eu- rocontrol.
+ the results of running the CFMU PREDICT system the day before of operations (D-1) allowing Eurocontrol to de- ne the ATFM measures that will be applied the D day.
+ the CFMU system (or facility) that processes the ight plans sent by the aircraft operators.
+19. Mark thewrongstatement:
+ Alert Services are provided when Air Trac Control is pro- vided.
+ Flight Information Services are provided when Air Trac Control is provided.
+ Alert Services are provided when Flight Information Ser- vices are provided.
+ Air Trac Control is provided when Flight Information Services are provided. 20. What is the international radiotelephony distress signal for avi- ation?
+ The wordMayDay.
+ The wordMayDayrepeated three times.
+ The wordPan-Pan.
+ The wordPan-Panrepeated three times. 21. An air trac controller issues the following radiotelephony mes- sage:Echo Charlie Uniform Papa Charlie, trac at your 10 o'clock position, Cessna 172 westbound at 4 miles, 300 ft below . Which of the following answers is correct?
+ The message is a separation instruction to prevent a mid- air collision.
+ It is a distress signal message.
+ It is a collision hazard ight information message.
+ It is a urgency signal message. 22. A VFR ight is ying inside an airspace of class D. The air trac controller is responsible to separate it from:
+ all other IFR ights.
+ all other VFR ights.
+ all other VFR and IFR ights.
+ the controller has no separation responsibility with VFR ights in airspace class D. 23. Which of the following options is NOT a source of information for the ATC?
+ Voice position reports.
+ Surveillance systems (PSR, SSR, ADS, etc).
+ Visual acquisition.
+ All the other options are in fact a source of information for the ATC. 24. When procedural control is given to an approach procedure...
+ the air trac controller can give vectors to the aircraft to ensure separation.
+ the air trac controller can clear only one aircraft per ap- proach.
+ the pilots ensure separation by their own means (visual, ASAS, etc.).
+ the pilots must not consider any ACAS advisory.
+25. What is the role of the ATC supervisor in an ACC (area control center)?
+ To decide the best sectorisation to apply from a list of pre- dened sectorisations.
+ If needed, to create new sectorisations dierent from those in the list of pre-dened sectorisations.
+ To assign delays, re-routings or level cappings to regulated trac.
+ All the answers are correct.
+26. Who is the responsible to detect and solve short term conicts within an ATC sector?
+ The strategic controller
+ The tactical controller.
+ The approach controller.
+ The ATC supervisor.
+27. Which of the following sentences is correct, regarding the Letters of Agreement (LoA) in the context of ATS?
+ The air trac controllers must have a comprehensive knowledge of the LoA aecting their sectors.
+ The aircraft operators must have a comprehensive knowl- edge of the LoA aecting their ights.
+ The LoA are published in the AIP.
+ All answers are correct. 2
+28. What ATC dependency is typically in charge to conrm that the cruise altitude led in the ight plan has been accepted?
+ The en-route control.
+ The ground control.
+ The IFR clearance delivery.
+ The tower control.
+29. How the letterBis spelled, according to the ICAO radio- telephony alphabet?
+ Biktor.
+ Bravo.
+ Beta.
+ Broquil.
+30. Which is NOT correct, according to the ICAO radio-telephony spelling alphabet?
+G: Golf
+H: Hotel
+X: X-trem
+W: Whiskey
+31. Which is the radio-telephony callsign of a ight labelled as BAW142in an ATC radar screen?
+ Bravo Alpha Whiskey One hundred and forty-two
+ Brussels One Four Two
+ Speedbird One Four Two
+ British Airways One Four Two
+32. At present, which is the principal communications method in continental Europe to link pilots with air trac controllers?
+ VHF voice communications.
+ HF voice communications.
+ Data-link communications.
+ Satellite based communications.
+33. Why is it dicult to implement controller to pilot data link com- munications (CPDLC) in civil aviation?
+ CPDLC has already been implemented for several years in Europe and USA and used extensively, at least for the en-route phase.
+ Because its coverage is very small and requires a high num- ber of antennas and frequencies, leading to possible capac- ity issues.
+ Because it is a safe-critical system requiring very demand- ing (and expensive) certication processes.
+ Because it relies on GPS, which does not meet integrity requirements for civil aviation.
+34. Who actually computes a GPS position?
+ The receiver, using the information sent by the GPS satel- lites.
+ One or more GPS satellites, using the information sent by the receiver.
+ The GPS ground station, using the information sent by the receiver via the GPS satellites.
+ The receiver and at least 4 GPS satellites: the receiver computes the 3D coordinates and the satellites compute the dierent time stamps.
+35. Why in the majority of satellite based augmentation systems (SBAS) there are three geostationary satellites?
+ Because at least three satellites are needed to compute a 3D position.
+ For redundancy reasons and in order to guarantee the high levels of integrity required.
+ For coverage reasons. (d) For interoperability reasons. 36. Which of the following statements istrue?
+ GPS integrity is related with the average time (latency) the receiver needs to compute the position.
+ GPS integrity is related with the average time the GPS ground-control segment needs to detect a satellite is not working properly.
+ GPS integrity is related with the probability that the po- sitioning error exceeded a certain threshold.
+ GPS integrity is related with the probability to have the system unavailable. 37. Which transponder mode transmits only the transponder code and the barometric altitude of the aircraft?
+ Mode A.
+ Mode B.
+ Mode C.
+ Mode S. 38. Which of the following statements is true?
+ ADS-B positioning is based on secondary radar interroga- tions.
+ ADS-B has the advantage to be signicantly cheaper than secondary radar technology.
+ ADS-B positioning is independent from the navigation sys- tem of the aircraft.
+ ADS-B has the advantage that an aircraft is always de- tected, even if the crew is not willing to "cooperate". 39. Regarding the Instrumental Approach Chart (IAC) Girona ILS Z RWY20, annexed to this exam, the initial approach segment for the procedure starting at GIR IAF is:
+ a dead-reckoning segment that depends on the aircraft speed.
+ a racetrack procedure.
+ an ILS path.
+ a reversal procedure.
+40. Regarding the Instrumental Approach Chart (IAC) Girona ILS Z RWY20, annexed to this exam:
+ It is a straight-in and a precision approach.
+ It is a straight-in and a non precision approach.
+ It is a circling and a precision approach.
+ It is a circling and a non precision approach.
+41. Regarding the Instrumental Approach Chart (IAC) Girona ILS Z RWY20, annexed to this exam, the radionavigation aid la- beled asIGNis a:
+ Localizer.
+ VOR/DME.
+ DME.
+ Locator.
+42. Regarding the Instrumental Approach Chart (IAC) Menorca VOR, annexed to this exam, the aircraft operator will publish for their crew...
+ a decision altitude.
+ a minimum descent altitude.
+ an obstacle clearance altitude.
+ a minimum decision altitude.
+43. Regarding the Instrumental Approach Chart (IAC) Menorca VOR, annexed to this exam, the initial approach segment for the procedure starting at MHN IAF is...
+ a holding procedure.
+ a racetrack procedure.
+ a VOR radial.
+ a dead-reckoning radial. 3
+44. Regarding the Instrumental Approach Chart (IAC) Menorca VOR, annexed to this exam, the intermediate segment for the procedure starting at DONAV is:
+ a dead-reckoning leg.
+ an arc DME.
+ a VOR radial.
+ a NDB course.
+45. The Visual Flight Rules (VFR) aireld trac pattern leg by which an aircraft ies perpendicular to the runway and starts descending is called:
+ upwind.
+ crosswind.
+ downwind.
+ base.
+46. Imagine a twin engine aircraft departing in IMC from a con- trolled airport. Few seconds after take-o, it hits birds, causing a re in one of the engines and loosing all of its power. In this situation, thecommunicatefunction of the aircraft crew would be:
+ to check if there is a contingency departure published for that airport and execute it.
+ to safely control the aircraft trajectory with the loss of power and to manage to extinguish the re and shut down the engine.
+ to send a distress message to the air trac control.
+ to revert to manual control and visual ight to safely land as soon as possible.
+47. An aircraft operator (RNAV equipped) is dening the best route to go from Girona airport to Eivissa airport (named Ibizain the chart). According to the IFR navigation charts given in annex to this exam, which of the following IFR routes, as it would be written into an ATS ight plan, is correct?
+ GIR { N727 { SALON { A27 { POS { A6 { SURIB { G30 { IZA
+ MAMUK { B31 { BCN { Z174 { CORDA
+ MAMUK { H110 { REBUL { A29 { RES { A293 { GODOX
+ SLL { B31 { TOLSO
+48. An aircraft operator (RNAV equipped) is dening the best route to go from Eivissa airport (namedIbizain the chart) to Girona airport. According to the IFR navigation charts given in annex to this exam, which of the following IFR routes, as it would be written into an ATS ight plan, is correct?
+ IZA { G30 { SURIB { A6 { POS { A27 { SALON { N727 { GIR
+ CORDA { Z174 { BCN { B31 { MAMUK
+ GODOX { A293 { RES { A29 { REUBUL { H110 { MAMUK
+ TOLSO { B31 { SLL
+49. An aircraft operator (RNAV equipped) is dening the best route to go from Girona airport to Menorca airport. According to the IFR navigation charts given in annex to this exam, which of the following IFR routes, as it would be written into an ATS ight plan, is correct?
+ GIR { N727 { SARGO { A67 { MHN
+ GIR { H110 { BGR { A67 { MHN
+ BGR { A67 { SARGO
+ GIR { H110 { BGR { A67 { SARGO { A67 { MHN
+50. Which type of x is NEVIK, which appears in the SID chart for RWY01 in Menorca airport (see IFR navigation charts given in annex to this exam)?
+ an intersection.
+ a radionavigation facility. (c) a RNAV waypoint.
+ none of the other answers is correct. 51. Which type of x is ADX, which appears in the SID chart for RWY01 in Menorca airport (see IFR navigation charts given in annex to this exam)?
+ an intersection.
+ a radionavigation facility.
+ a RNAV waypoint.
+ none of the other answers is correct. 52. Regarding the SID MAMUK1H for RWY20 at Girona airport (see IFR navigation charts given in annex to this exam), which of the following statements is correct?
+ All aircraft shall be at FL75 or above when overying MA- MUK.
+ All aircraft shall be at FL75 or below when overying MA- MUK.
+ All aircraft shall be at strictly below FL75 when overying MAMUK.
+ All aircraft shall be at FL75 when overying MAMUK. 53. Regarding the legs that compose the GEANT1H SID for RWY20 at Girona airport (see IFR navigation charts given in annex to this exam), which of the following options is correct?
+ The SID is formed by the succession of three consecutive VOR radials.
+ The SID is formed by one VOR radial, followed by a dead- reckoning leg, followed by another VOR radial.
+ The SID is formed by a dead-reckoning leg, followed by a DME arc, followed by two VOR radials.
+ The SID is formed by a VOR radial, followed by a DME arc, followed by two VOR radials. 54. Regarding the legs that compose the BGR4H SID for RWY20 at Girona airport (see IFR navigation charts given in annex to this exam), which of the following options is correct?
+ The SID is formed by the succession of three consecutive VOR radials.
+ The SID is formed by one VOR radial, followed by a dead- reckoning leg, followed by another VOR radial.
+ The SID is formed by a dead-reckoning leg, followed by a DME arc, followed by a VOR radial.
+ The SID is formed by a VOR radial, followed by a DME arc, followed by a VOR radial.
+55. Imagine an aircraft executing the KABRE1F arrival procedure for runway 19R at Menorca airport (see IFR navigation charts given in annex to this exam) when the ATC instructs the pilot to hold at the IAF of this approach. In this case, the aircraft will enter the hold with...
+ a racetrack entry procedure.
+ a direct entry procedure.
+ an oset entry procedure.
+ a parallel entry procedure.
+56. Imagine an aircraft executing the KABRE1F arrival procedure for runway 19R at Menorca airport (see IFR navigation charts given in annex to this exam). The aircraft is still following Radial 233 of MHN VOR when the ATC instructs the pilot to proceed direct to MN IAF and hold (please note there is a hold for MN and a dierent hold fr MHN depicted in the chart). In this case, the aircraft will enter the hold with...
+ a racetrack entry procedure.
+ a direct entry procedure.
+ an oset entry procedure.
+ a parallel entry procedure.
+57. Imagine an aircraft executing the MAMUK1F arrival procedure (see IFR navigation charts given in annex to this exam). What denes the IAF for this procedure? 4
+ an intersection.
+ a VOR.
+ a DME.
+ an NDB.
+58. Which of the following aircraft instruments are mainly used to perform theaviatefunction in IMC conditions?
+ the VOR, the ADF (NDB receiver) and the DME.
+ the articial horizon and the airspeed indicator.
+ theaviatefunction is always executed visually and no in- struments are required.
+ all engine related instruments.
+59. When does a STAR begins?
+ At a given radionavigation x.
+ At the top of descent.
+ At a given visual landmark.
+ Depending on the airport and TMA characteristics, any of the previous answers could be possible.
+60. In a conventional IFR holding, which leg is typically a dead reck- oning leg?
+ The outbound leg.
+ The inbound leg.
+ The inbound and the outbound legs.
+ Only the two turns are executed in dead reckoning.
+61. When executing an aireld trac pattern, the aircraft has always instrumental guidance, at least, in...
+ the downwind leg
+ the nal leg
+ the downwind, base and nal legs
+ None of the other answers is correct.
+62. A circling to approach with prescribed tracks...
+ consists of a sequence of visual tracks that guide the pilot when ying the circling procedure.
+ consists of a sequence of instrumental tracks that guide the pilot when ying the circling procedure.
+ consists of a sequence of visual tracks to be avoided by the pilot when ying the circling procedure.
+ consists of a sequence of instrumental tracks to be avoided by the pilot when ying the circling procedure.
+63. Which of the following statements is correct?
+ A VOR approach is always a NPA (non precision approach) procedure (*).
+ A NPA (non precision approach) is always a VOR proce- dure (*).
+ The answers marked with (*) are correct.
+ None of the other answers is correct.
+64. An approach procedure using a Locator as principal guidance system in the nal approach segment is...
+ a precision approach.
+ a non-precision approach.
+ an APV approach.
+ a Locator cannot be used as principal guidance system in the nal approach segment.
+65. An approach procedure only using a Localiser as principal guid- ance system in the nal approach segment is...
+ a precision approach.
+ a non-precision approach.
+ an APV approach. (d) a Localiser cannot be used as principal guidance system in the nal approach segment. 66. The MDA...
+ is the minimum altitude to start an IFR approach proce- dure.
+ is used in VFR operations, while the DA is used in IFR operations.
+ is the lowest altitude to which descent is authorized on the nal approach segment if no sucient visual references are met.
+ None of the other answers are correct. 67. The OCA...
+ is the minimum descent altitude for VFR ights.
+ is the lowest altitude the pilot should have a clear view of the runway or airport, otherwise a missed approach proce- dure must be initiated.
+ is the altitude from which a procedure becomes a Non Pre- cision Approach.
+ None of the other answers are correct. 68. Which of the following statements is correct?
+ The aircraft operator must compute and publish the MDA in the charts used by their pilots.
+ The appropriate ANS national administration may com- pute the MDA and publish it in the AIP charts.
+ The appropriate ANS national administration must com- pute a lower bound for the MDA and publish it in the AIP charts.
+ All statements are correct. 69. In a VOR approach procedure, the decision to land or to execute a missed approach must be taken, at the latest...
+ when reaching the MDA.
+ when reaching the DA.
+ when reaching the OCA.
+ when reaching the MAPt.
+70. Who is responsible to design and publish the missed approach segment in an approach chart (assuming nominal operations)?
+ The aircraft operator.
+ The aircraft manufacturer.
+ The airport operator.
+ The appropriate ANS national administration.
+71. In which of the following procedures the nal approach segment will start at a FIX and not at a POINT?
+ In an ILS approach.
+ In a VOR approach (*).
+ In a Localizer approach (*).
+ The answers labelled with (*) are correct.
+72. A racetrack procedure...
+ is a type of holding pattern.
+ could be, for instance, a 45/180 procedure turn.
+ is when an aircraft uses an active runway to taxi in the op- posite direction from which it will take o or has landed.
+ None of the other answers is correct.
+73. If the misalignment of the nal approach track with respect to the runway centre line exceeds 90 degrees...
+ only a circling to approach is possible.
+ only a precision approach is possible
+ a straight-in approach is possible if the nal descent gradi- ent does not exceed some specic limits.
+ an instrumental approach cannot be designed in such cir- cumstances.
+74. The minimum decision height for an ILS CAT-I approach is: 5
+ 300ft.
+ 200ft.
+ 100ft.
+ 0ft.
+75. In the paper 1 of WP3 with title "Enhanced Demand and Ca- pacity Balancing based on Alternative Trajectory Options and Trac Volume Hotspot Detection", the advantages of the pro- posed enhanced demand and capacity balancing in comparison with the RBS method are:
+ It solves the demand and capacity imbalance considering the full network.
+ The total amount of delay is signicantly reduced.
+ It considers the AUs preferences.
+ All options are correct.
+76. In relation with paper 1 of WP3 with title "European route choice determinants", which of the following elements is not considered when dening the route charges:
+ Distance.
+ Speed.
+ Weight.
+ Unit rate.
+77. In relation with paper 4 of WP3 with title "Identifying the Sources of Flight Ineciency from Historical Aircraft Trajecto- ries", why the current distance-based PIs are not good enough?:
+ Because they are not considering the vertical prole.
+ Because they are not considering the free route network.
+ Because they do not consider the horizontal track of the trajectory.
+ All options are correct
+78. Regarding the gure 1a, the Delta aircraft is:
+ at FL250 and descending, cleared to FL160 and with a planned exit level at FL190.
+ at FL250 and descending, cleared to FL190 and with a planned exit level at FL160.
+ at FL190 and descending, cleared to FL250 and with a planned exit level at FL160.
+ at FL190 and descending, cleared to FL160 and with a planned exit level at FL250.
+79. Regarding the gure 1a, the heading of the Delta aircraft is:
+ approximately 0o
+ approximately 45o
+ approximately 90o
+ approximately 130o
+80. Consider gure 1b, where the aircraft label is displayed in blue colour and all the airspace shown in the picture belongs to our sector. If we assume we are controlling anen-route sector of Barcelona UIR, then we can say that...
+ AEA979D is not yet in our sector but will enter in few minutes from below.
+ AEA979D is not yet in our sector but will enter in few minutes from above.
+ AEA979D is in our sector and climbing to FL260.
+ AEA979D is in our sector and climbing to FL320.
+81. Consider gure 1b, where the aircraft label is displayed in blue colour and all the airspace shown in the picture belongs to our sector. If we assume we are controlling anen-route sector of Barcelona UIR. What does FL260 in the aircraft label means?
+ The planned entry ight level to our sector.
+ The exit ight level of our sector.
+ The last cleared ight level. (d) The desired cruise altitude of the aircraft. 82. Figure 1c shows:
+ A GPWS alert.
+ A STCA alert.
+ A TCAS TA alert.
+ A TCAS RA alert. 83. In order to solve the conict shown in Figure 1c in the most ef- cientway, the ATC could instruct the AFR161 to change the altitude to:
+ FL270
+ FL369
+ FL365
+ FL360 84. Figure 1d shows a radar screenshot taken at the North border of Barcelona UIR. EZY1713 is scheduled to land in Valencia, while EZY9JA is just transiting in the UIR. Which of the following statements is correct?
+ There is no potential conict between the two aircraft if the ATC clears EZY1713 immediately to FL220.
+ There is no potential conict between the two aircraft if the ATC clears EZY9JA immediately to FL330.
+ There is a potential conict between the two aircraft that can be solved by changing appropriately the exit ight level of EZY1713.
+ There is a potential conict between the two aircraft that can be solved by deviating laterally one of the two aircraft and instructing the EZY1713 to descend when ready. 85. Regarding the gure 1d, what does the tip of the black line ap- pearing next to each aircraft symbol indicate?
+ The estimated position of the aircraft, after a given period of time, based on the current aircraft heading and speed.
+ The estimated position of the aircraft, after a given period of time, based on the led ight plan.
+ The minimum separation distance between two aircraft.
+ The black line gives a visual information to the controller regarding the vertical speed of the aircraft.
+86. What was the sector PON in the ITA ATC laboratory simula- tions?
+ an approach sector of Barcelona TMA.
+ a departures sector of Barcelona TMA.
+ an en-route sector of Barcelona FIR/UIR.
+ a sector of Barcelona CTR, for the West plan conguration.
+87. Regarding the ITA ATC laboratory simulations, in how many sectors was the Barcelona UIR divided?
+ Two: CAT-W and CAT-E
+ Two: BCN and GRN
+ Four: CAT-N, CAT-S, CAT-W and CAT-E
+ Three: PON, MED and LLE
+88. In the ITA ATC laboratory simulations, CAT-W was a sector in Barcelona TMA. Which of the following initial contact messages issued by a pilot entering into the sector is correct?
+Barcelona approach, Vueling one two three, good morning.
+Barcelona TMA, Vueling one two three, good morning.
+Catalunya West, Vueling one two three, good morning.
+CAT Whiskey, Vueling one two three, good morning.
+89. In the San Francisco airport (SFO), two parallel approaches are executed if visibility meteorological conditions (VMC) are met. Otherwise, only one instrumental approach is executed in one of the runways. Which of the following statements is correct?
+ In VMC, runway capacity in SFO is increased at the ex- pense of reducing safety. 6
+ In VMC, ight eciency of SFO arrivals is increased at the expense of reducing safety.
+ In VMC, ight eciency of SFO arrivals is increased at the expense of reducing capacity.
+ None of the other answers is correct.
+90. Continuous descent operations are not possible in very congested airports. This is a illustrative example of a trade-o, or interde- pendency, between:
+ ight eciency and environmental impact.
+ ight eciency and safety.
+ capacity and safety.
+ capacity and ight eciency.
+91. What separation procedure is mainly used in oceanic airspace?
+ Radar separation.
+ Self separation.
+ Procedural separation.
+ TCAS-only separation.
+92. Which of the following statements is correct?
+ Tromboning procedures in terminal airspace are mainly de- signed to improve the eciency of the ights, if compared with continuous descent operations.
+ Tromboning procedures in terminal airspace are mainly de- signed to improve airspace and airport capacity, if com- pared with holding patterns.
+ Tromboning procedures in terminal airspace are one of the collision avoidance layers.
+ All other answers are correct.
+93. When talking about the Short Term Conict Alert (STCA) sys- tem, which of the following statementsis wrong?(a) The STCA function alerts the controller to potential air- craft to aircraft collisions prior to loss of separation.
+ The STCA does not take into account the possible clear- ances given to the aircraft.
+ Future aircraft positions are estimations based on the ve- locity vectors of the aircraft.
+ The STCA communicates with the on-board TCAS and when a TCAS alarm triggers, also does the STCA alarm and vice-versa. 94. When the intruding aircraft is equipped with a transponder with- out altitude reporting capability, the TCAS (Trac Collision Avoidance System) issues a:
+ trac advisory and vertical resolution advisory.
+ trac advisory only.
+ trac advisory and horizontal resolution advisory.
+ trac advisory, vertical and horizontal resolution advisory. 95. If a potential collision conict is detected by an ACAS II/TCAS system, what type of advisory is triggered rst?
+ A Resolution Advisory (RA) that includes a range of ver- tical speed at which the aircraft should be own to avoid the potential collision.
+ A Resolution Advisory (RA) that includes a range of in- dicated airspeeds at which the aircraft should be own to avoid the potential collision.
+ A Trac Advisory (TA) that includes a range of vertical speeds at which the aircraft should be own to avoid the potential collision.
+ A Trac Advisory (TA), which is intended to assist the aircraft crew in the visual acquisition of the conicting air- craft and/or raise their situational awareness. 7
+
+
+
+
+
+
+
+ Figure 1:ATC radar screenshots 8
